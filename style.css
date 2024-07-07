@@ -78,3 +78,89 @@ html{
     background-color: azure;
 
 }
+
+.second-section > h2{
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    padding: 25px;
+}
+
+#gallery{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+    padding: 50px 250px;
+}
+
+.img-discription{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 40px;
+}
+
+.img-discription > p{
+    font-size: 23px;
+    color: #1F2937;
+    font-weight: 400;
+    text-align: center;
+}
+
+#thrid-section{
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: 350;
+    font-size: 36px;
+    padding: 140px 280px 50px 280px;
+
+}
+
+.author{
+    font-weight: 900;
+    text-align: right;
+    padding: 40px 180px;
+}
+
+#fourth-section{
+    background-color: #f8faf8;
+    padding: 90px 180px;
+}
+
+#Lt-footer{
+    background-color: #3886F6;
+    padding: 40px 40px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 26px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center ;
+}
+
+#Lt-footer2 > p{
+    font-weight: 300;
+    
+    
+}
+
+#footer-division{
+    display: flex;
+
+}
+
+.sign-up2{
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-foot{
+    border: solid #f8faf8 2px;
+}
+
+#footer{
+    text-align: center;
+    padding: 30px;
+}
